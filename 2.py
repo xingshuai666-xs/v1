@@ -1,0 +1,2 @@
+a='<p>He accused the BJP of distorting history by maligning tall figures, interfering in the education sector to propogate its own version, including a deliberate attempt to suggest that there was a rift between Jawaharlal Nehru and Sardar Patel.</p>'
+print(a.replace('<p>','').replace('</p>',''))
